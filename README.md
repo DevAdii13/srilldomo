@@ -1,5 +1,5 @@
 👋 Hi
-I'm Aditya Chauhan!
+I'm Aditya Chauhan,
 🚀 Full-Stack Developer 
 Passionate about building web apps.
 ### 🌟 About Me 
