@@ -10,5 +10,5 @@ A WorkOut app with React
   A JSM Media app with React.  
 - [JSM Media](https://you-tube-clone-pi-wine.vercel.app/)  
  ### 💌 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/adityatech/)  
+- [LinkedIn](https://www.linkedin.com/in/adityatech/) 
  
